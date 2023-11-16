@@ -12,17 +12,9 @@ Jieming Zhang</a></h1>
 
 - 🔭 I’m currently studying at <a href="https://www.skku.edu.com/" target="blank">Sungkyunkwan University</a>
 
-- 🌱 I’m currently Working on 
+- 🌱 Please check  <a href="https://jieming1113.github.io/" target="blank">My HomePage</a> for details
 
-
-
-- 📝 I need to find on 
-
-- 💬 Ask me about **Data**
-
-- 📫 How to reach me **jieming2021@g.skku.edu*
-
-- 📄 I will add a personal CV page later
+- 📝 📄 📫 💬
 
 
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
