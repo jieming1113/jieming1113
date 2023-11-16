@@ -12,13 +12,13 @@ Jieming Zhang</a></h1>
 
 - 🔭 I’m currently studying at <a href="https://www.skku.edu.com/" target="blank">Sungkyunkwan University</a>
 
-- 🌱 I’m currently Working on Flight Delay Prediction & Revenue Management
+- 🌱 I’m currently Working on 
 
 
 
-- 📝 I need to find a place to regularly write articles on 
+- 📝 I need to find on 
 
-- 💬 Ask me about **Data Science & Aviation**
+- 💬 Ask me about **Data**
 
 - 📫 How to reach me **jieming2021@g.skku.edu*
 
