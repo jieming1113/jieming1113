@@ -37,5 +37,5 @@ Jieming Zhang</a></h1>
 			<img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png"></a>
 		<a style="margin-left: 5px;" target="_blank" href="https://google.com">
 		
-/div>
+</div>
 </p>
