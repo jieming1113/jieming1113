@@ -12,7 +12,7 @@ Jieming Zhang</a></h1>
 
 - 🔭 I’m currently studying at <a href="https://www.skku.edu.com/" target="blank">Sungkyunkwan University</a>
 
-- 🌱 Please check  <a href="https://jieming1113.github.io/" target="blank">My HomePage</a> for details
+- 🌱 Please check my homepage for details
 
 - 📝 📄 📫 💬
 
